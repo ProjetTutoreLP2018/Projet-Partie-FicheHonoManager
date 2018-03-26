@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet-Partie-FicheHonoManager", "Projet-Partie-FicheHonoManager\Projet-Partie-FicheHonoManager.csproj", "{EE47D15A-D2FF-45CF-B968-97CB67617587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet-Partie-FicheHonoManager.Tests", "Projet-Partie-FicheHonoManager.Tests\Projet-Partie-FicheHonoManager.Tests.csproj", "{B8F2361B-2276-4CE1-A93F-D29B23807181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE47D15A-D2FF-45CF-B968-97CB67617587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE47D15A-D2FF-45CF-B968-97CB67617587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE47D15A-D2FF-45CF-B968-97CB67617587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE47D15A-D2FF-45CF-B968-97CB67617587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F2361B-2276-4CE1-A93F-D29B23807181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F2361B-2276-4CE1-A93F-D29B23807181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F2361B-2276-4CE1-A93F-D29B23807181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F2361B-2276-4CE1-A93F-D29B23807181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047386A2-C954-441F-AA92-8E1861D0CC64}
+	EndGlobalSection
+EndGlobal
